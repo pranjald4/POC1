@@ -1,0 +1,18 @@
+FNExpiryKey = 1475964000
+FNHardwareKey = 
+FNLicenceKey = hlevotD2TkJ9cwObfg4/MgkKsVigqNkA8f5Ei8fsC3ZRvBamECykWgJ5NS3B20tNL/AubE1A9FrC6eINyXitNf919Xpgms/7TRMzhhD4RYCA1tqQvCqVTvY9B8nJPWL54wAUQdV/4JKmXPIGZI3fSt26k/5enTJWrSGvM2COBtE=
+FNLicenseType = FaceVACS-SDK 9.1.X
+FNLicenseValidity = issued 2016-07-08 19:46:24 CEST valid 3 months until 2016-10-09 0:00:00 CEST
+FNProtectedKeys = FNLicenseType FNLicenseValidity FNShortLicenceKey FRsdkLicenseInfo FNUseHardwareKey FNExpiryKey FRSDK.LicenseSettings.Finding FRSDK.LicenseSettings.Tracking FRSDK.LicenseSettings.Verification FRSDK.LicenseSettings.Identification FRSDK.LicenseSettings.Encoding FRSDK.LicenseSettings.Characteristics FRSDK.LicenseSettings.MaxFIRInstances FRSDK.LicenseSettings.FIRLoadingTime FRSDK.LicenseSettings.TargetPlatform
+FNShortLicenceKey = 
+FNUseHardwareKey = None
+FRSDK.LicenseSettings.Characteristics = true
+FRSDK.LicenseSettings.Encoding = true
+FRSDK.LicenseSettings.FIRLoadingTime = 0
+FRSDK.LicenseSettings.Finding = true
+FRSDK.LicenseSettings.Identification = false
+FRSDK.LicenseSettings.MaxFIRInstances = 5
+FRSDK.LicenseSettings.TargetPlatform = Android
+FRSDK.LicenseSettings.Tracking = false
+FRSDK.LicenseSettings.Verification = true
+FRsdkLicenseInfo = name: Daon Solutions Team (Identity-X) contact: Bob Greene contract: 00000204 user: Bob Greene, Nicolas Sezille, Frances Phelan email: Bob.Greene@daon.com; nicolas.sezille@daon.com; Frances.Phelan@daon.com host: hw unbound project: DAON Solutions Team internal project - Android demo project - IdentityX app  issued: 2016-07-08

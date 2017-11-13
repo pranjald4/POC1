@@ -1,0 +1,43 @@
+{
+  "default": {
+      "model": "EnUs",
+      "phrase": "P101",
+      "display": "My identity is secure because my voice is my passport, verify me.",
+      "frequency": "16000"
+  },
+
+  "en":{
+    "gb": {
+          "model": "EnUs",
+          "phrase": "P101",
+          "display": "My identity is secure because my voice is my passport, verify me.",
+          "frequency": "16000"
+    },
+    "us":{
+          "model": "EnUs",
+          "phrase": "P101",
+          "display": "My identity is secure because my voice is my passport, verify me.",
+          "frequency": "16000"
+    },
+    "default":{
+          "model": "EnUs",
+          "phrase": "P101",
+          "display": "My identity is secure because my voice is my passport, verify me.",
+          "frequency": "16000"
+    }
+  },
+  "xx":{
+    "xx":{
+          "model": "XxXx",
+          "phrase": "xxxx",
+          "display": "私の声は私のパスポートなので私の身元は安全です、私を確認してください。",
+          "frequency": "16000"
+    },
+    "default":{
+          "model": "XxXx",
+          "phrase": "xxxx",
+          "display": "私の声は私のパスポートなので私の身元は安全です、私を確認してください。",
+          "frequency": "16000"
+    }
+  }
+}
